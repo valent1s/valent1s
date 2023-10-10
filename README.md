@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65256c71af6669e1097ab7a2?variant=dark)](https://roadmap.sh)
+
 <!--
 **valent1s/valent1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
